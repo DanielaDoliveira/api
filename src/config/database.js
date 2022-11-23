@@ -1,9 +1,9 @@
 module.exports = {
   dialect: "postgres",
-  host: " dpg-cdujotta49967v5r3770-a",
+  host: "projetointegrado.ccosprsvjz5y.sa-east-1.rds.amazonaws.com",
   username: "root",
   password: "projetointegrado",
-  database: "projeto_integrado_80vr",
+  database: "projeto_integrado",
   define: {
     timestamps: true,
     underscored: true,
